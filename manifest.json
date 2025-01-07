@@ -38,8 +38,8 @@
  ],
  "background_color": "#FFFFFF",
  "display": "fullscreen",
- "start_url": "index.htm",
- "description": "Explore your home at Ambit project in Virtual tour from any device",
  "theme_color": "#FFFFFF",
+ "description": "Explore your home at Ambit project in Virtual tour from any device",
+ "start_url": "index.htm",
  "name": "Ambit Project"
 }
