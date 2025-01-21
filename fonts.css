@@ -22,3 +22,9 @@
    font-weight: bold;
    font-style: italic;
 }
+@font-face {
+   font-family: "Sans Serif Collection";
+   src: url("fonts/Sans Serif Collection.woff") format("woff"), url("fonts/Sans Serif Collection.eot") format("embedded-opentype"), url("fonts/Sans Serif Collection.ttf") format("truetype"), url("fonts/Sans Serif Collection.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
