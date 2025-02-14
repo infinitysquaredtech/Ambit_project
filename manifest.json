@@ -1,4 +1,10 @@
 {
+ "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
+ "display": "fullscreen",
+ "description": "Explore your home at Ambit Primoris Kandivali (W) in Virtual tour from any device",
+ "background_color": "#FFFFFF",
+ "name": "Ambit - Primoris",
  "icons": [
   {
    "src": "misc/icon512.png",
@@ -35,11 +41,5 @@
    "type": "image/png",
    "sizes": "16x16"
   }
- ],
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
- "description": "Explore your home at Ambit Primoris Kandivali (W) in Virtual tour from any device",
- "name": "Ambit - Primoris",
- "start_url": "index.htm",
- "background_color": "#FFFFFF"
+ ]
 }
